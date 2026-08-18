@@ -113,7 +113,7 @@ export default function HomePage() {
       {/* Metodo */}
       <section className="border-b border-border">
         <div className="mx-auto max-w-content px-6 py-20">
-          <SectionHeading eyebrow="How We Work" title="How We Work" />
+          <SectionHeading eyebrow="method" title="How We Work" />
           <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {METODO.map((item) => (
               <Card key={item.title}>
