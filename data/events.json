@@ -1,0 +1,26 @@
+[
+  {
+    "id": "reading-group-transformers",
+    "title": "Reading Group: Attention Is All You Need",
+    "date": "2026-10-05",
+    "time": "18:30",
+    "location": "Online (Zoom)",
+    "description": "Lettura e discussione del paper Attention Is All You Need.",
+    "type": "reading-group",
+    "status": "upcoming",
+    "link": null
+  },
+  {
+    "id": "reading-group-diffusion-models",
+    "title": "Reading Group: Denoising Diffusion Probabilistic Models",
+    "date": "2026-07-10",
+    "time": "18:30",
+    "location": "Online (Zoom)",
+    "description": "Discussione del paper Denoising Diffusion Probabilistic Models",
+    "type": "reading-group",
+    "status": "past",
+    "link": null
+  }
+]
+
+

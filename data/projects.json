@@ -1,0 +1,22 @@
+[
+  {
+    "id": "multicollinearity-ml",
+    "title": "Multicollinearity in Machine Learning",
+    "description": "Investigating the impact of multicollinearity on statistical and machine learning models, with a focus on diagnosis, model stability, predictive performance, and feature attribution.",
+    "tags": ["Machine Learning", "Statistics", "Multicollinearity", "Model Interpretability"],
+    "githubUrl": "https://github.com/bmla-bicocca/multicollinearity-in-machine-learning",
+    "pdfUrl": "/projects/multicollinearity-in-machine-learning.pdf",
+    "date": "2026-08",
+    "status": "ongoing"
+  },
+  {
+    "id": "active-learning-llms",
+    "title": "Bayesian Active Learning for LLMs",
+    "description": "Investigating Bayesian Active Learning for label-efficient LLM fine-tuning through uncertainty and diversity-based sample selection.",
+    "tags": ["LLM", "Deep Learning", "Fine Tuning", "Active Learning"],
+    "githubUrl": "https://github.com/bmla-bicocca/active-learning-llms",
+    "pdfUrl": "/projects/active-learning-llms.pdf",
+    "date": "2026-07",
+    "status": "ongoing"
+  }
+]

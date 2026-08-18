@@ -1,0 +1,25 @@
+[
+    {
+    "id": "speaker-computer-vision-industria",
+    "title": "Speaker Talk: Computer Vision nell'Industria Manifatturiera",
+    "date": "2026-01-22",
+    "time": "17:00",
+    "location": "Aula Seminari U7",
+    "description": "Un ingegnere ML racconta l'applicazione di sistemi di visione artificiale al controllo qualità in linea.",
+    "type": "talk",
+    "status": "past",
+    "link": "https://www.youtube.com/@bmla-bicocca"
+    },
+
+    {
+    "id": "speaker-industry-nlp",
+    "title": "Speaker Talk: NLP in Produzione",
+    "date": "2026-10-08",
+    "time": "17:30",
+    "location": "Aula Seminari U7",
+    "description": "Un data scientist del settore fintech racconta come si porta un modello linguistico dalla ricerca alla produzione.",
+    "type": "talk",
+    "status": "upcoming",
+    "link": null
+    }
+]
