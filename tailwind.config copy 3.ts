@@ -9,40 +9,28 @@ const config: Config = {
     extend: {
       colors: {
         bg: {
-          DEFAULT: "#F8FAFA",
+          DEFAULT: "#F3F3F1",
           surface: "#FFFFFF",
-          raised: "#F0F3F3",
+          raised: "#EAEAE7",
         },
-
         border: {
-          DEFAULT: "#DCE3E4",
-          strong: "#C5D0D2",
+          DEFAULT: "#DCDCD8",
+          strong: "#C8C8C3",
         },
-
         ink: {
-          DEFAULT: "#15191A",
-          muted: "#5F696B",
-          faint: "#8D989A",
+          DEFAULT: "#18181A",
+          muted: "#68686D",
+          faint: "#99999F",
         },
-
         accent: {
-          DEFAULT: "#009FB7",
-          dim: "#007F94",
-          faint: "#E6F7FA",
+          DEFAULT: "#F97316",
+          dim: "#C2410C",
+          faint: "#FFF1E8",
         },
       },
-
       fontFamily: {
-        display: [
-          "var(--font-space-grotesk)",
-          "system-ui",
-          "sans-serif",
-        ],
-        sans: [
-          "var(--font-inter)",
-          "system-ui",
-          "sans-serif",
-        ],
+        display: ["var(--font-space-grotesk)", "system-ui", "sans-serif"],
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
         mono: [
           "var(--font-jbmono)",
           "ui-monospace",
@@ -50,51 +38,36 @@ const config: Config = {
           "monospace",
         ],
       },
-
       fontSize: {
         "display-xl": [
           "clamp(2.75rem, 6vw, 5rem)",
-          {
-            lineHeight: "1.02",
-            letterSpacing: "-0.02em",
-          },
+          { lineHeight: "1.02", letterSpacing: "-0.02em" },
         ],
         "display-lg": [
           "clamp(2.25rem, 4.5vw, 3.5rem)",
-          {
-            lineHeight: "1.05",
-            letterSpacing: "-0.02em",
-          },
+          { lineHeight: "1.05", letterSpacing: "-0.02em" },
         ],
         "display-md": [
           "clamp(1.5rem, 2.5vw, 2.25rem)",
-          {
-            lineHeight: "1.1",
-            letterSpacing: "-0.01em",
-          },
+          { lineHeight: "1.1", letterSpacing: "-0.01em" },
         ],
       },
-
       maxWidth: {
         content: "1180px",
       },
-
       transitionDuration: {
         150: "150ms",
         200: "200ms",
       },
-
       backgroundImage: {
         grid:
-          "linear-gradient(to right, #009FB70D 1px, transparent 1px), linear-gradient(to bottom, #009FB70D 1px, transparent 1px)",
+          "linear-gradient(to right, #00000008 1px, transparent 1px), linear-gradient(to bottom, #00000008 1px, transparent 1px)",
       },
-
       backgroundSize: {
         grid: "40px 40px",
       },
     },
   },
-
   plugins: [],
 };
 

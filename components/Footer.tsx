@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Github, Linkedin, Instagram, Mail } from "lucide-react";
 import { SITE } from "@/lib/config";
+import Image from "next/image";
 
 export function Footer() {
   return (
@@ -9,9 +10,13 @@ export function Footer() {
         <div className="grid gap-10 md:grid-cols-[1.5fr_1fr_1fr]">
           <div>
             <div className="flex items-center gap-2 font-display text-base text-ink">
-              <span className="flex h-6 w-6 items-center justify-center rounded border border-accent/50 font-mono text-[10px] text-accent">
-                B
-              </span>
+              <Image
+                src="/logo.png"
+                alt="BMLA"
+                width={24}
+                height={24}
+                className="h-6 w-6 object-contain"
+              />
               {SITE.shortName}
             </div>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-ink-muted">
