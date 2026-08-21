@@ -8,7 +8,7 @@ export const SITE = {
   name: "Bicocca Machine Learning Association",
   shortName: "BMLA",
   tagline: "Student-led Machine Learning community at the University of Milano-Bicocca",
-  email: "hello@bmla-bicocca.it",
+  email: "contact@bicoccamla.com",
   university: "Università degli Studi di Milano-Bicocca",
   location: "Milan, Italy",
   social: {
