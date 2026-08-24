@@ -1,5 +1,5 @@
 /** URL esterno del form di iscrizione (Google Form / Typeform). Sostituisci con il link reale. */
-export const APPLY_FORM_URL = "https://forms.gle/REPLACE_WITH_REAL_FORM_ID";
+export const APPLY_FORM_URL = "https://forms.gle/g7tNPHkU1h7XdGHi8";
 
 /** Endpoint per il servizio no-code di invio form contatti (es. Formspree). Lascia vuoto per usare mailto. */
 export const CONTACT_FORM_ENDPOINT = ""; // es. "https://formspree.io/f/xxxxxxx"
