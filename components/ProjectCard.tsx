@@ -11,7 +11,7 @@ export function ProjectCard({ project }: { project: Project }) {
       <div>
         <div className="flex items-start justify-between gap-3">
           <h3 className="font-display text-lg text-ink">{project.title}</h3>
-          {project.status === "ongoing" && <Badge variant="accent">In corso</Badge>}
+          {project.status === "ongoing" && <Badge variant="accent">Ongoing</Badge>}
         </div>
         <p className="mt-3 text-sm leading-relaxed text-ink-muted">{project.description}</p>
 
