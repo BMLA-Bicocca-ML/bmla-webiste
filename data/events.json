@@ -1,22 +1,55 @@
 [
   {
-    "id": "reading-group-transformers",
-    "title": "Reading Group: Attention Is All You Need",
-    "date": "2026-10-05",
+    "id": "reading-group-optimization-ml",
+    "title": "Reading Group: Optimization Methods for Large-Scale Machine Learning",
+    "date": "2026-10-19",
     "time": "18:30",
     "location": "Online (Zoom)",
-    "description": "Reading and discussion of the paper *Attention Is All You Need*.",
+    "description": "Reading and discussion of Bottou, Curtis & Nocedal's foundational review of optimization methods for large-scale machine learning.",
     "type": "reading-group",
     "status": "upcoming",
     "link": null
   },
   {
-    "id": "reading-group-diffusion-models",
-    "title": "Reading Group: Denoising Diffusion Probabilistic Models",
-    "date": "2026-07-10",
+    "id": "reading-group-initialization-momentum",
+    "title": "Reading Group: On the Importance of Initialization and Momentum in Deep Learning",
+    "date": "2026-10-26",
     "time": "18:30",
     "location": "Online (Zoom)",
-    "description": "Discussion of the paper *Denoising Diffusion Probabilistic Models*.",
+    "description": "Reading and discussion of the paper by Sutskever et al. on initialization, momentum, and optimization dynamics in deep learning.",
+    "type": "reading-group",
+    "status": "upcoming",
+    "link": null
+  },
+  {
+    "id": "reading-group-active-data-selection",
+    "title": "Reading Group: Information-Based Objective Functions for Active Data Selection",
+    "date": "2026-08-03",
+    "time": "18:30",
+    "location": "Online (Zoom)",
+    "description": "Discussion of MacKay's paper on information-based objective functions for selecting informative data points.",
+    "type": "reading-group",
+    "status": "past",
+    "link": null
+  },
+  {
+    "id": "reading-group-active-learning-statistical-models",
+    "title": "Reading Group: Active Learning with Statistical Models",
+    "date": "2026-08-06",
+    "time": "18:30",
+    "location": "Online (Zoom)",
+    "description": "Discussion of Cohn's paper on active learning strategies based on statistical models and informative sampling.",
+    "type": "reading-group",
+    "status": "past",
+    "link": null
+  },
+  {
+    "id": "reading-group-efficient-global-optimization",
+    "title": "Reading Group: Efficient Global Optimization of Expensive Black-Box Functions",
+    "date": "2026-08-10",
+    "time": "18:30",
+    "location": "Online (Zoom)",
+    "description": "Discussion of Jones et al.'s paper introducing Efficient Global Optimization for optimizing expensive black-box functions.",
     "type": "reading-group",
     "status": "past",
     "link": null
