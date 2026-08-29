@@ -1,4 +1,16 @@
 [
+
+  {
+    "id": "multifidelity-options-gp",
+    "title": "Surrogate Multi-Fidelity Modeling for Financial Options Pricing Using Gaussian Processes",
+    "description": "Developed Gaussian process surrogate models for financial option pricing.",
+    "tags": ["Gaussian Processes", "Multi-Fidelity Learning", "Finance", "Active Learning"],
+    "githubUrl": "https://github.com/BMLA-Bicocca-ML/...",
+    "pdfUrl": "/projects/surrogate-multi-fidelity-modeling-financial-options-pricing.pdf",
+    "date": "2026-08",
+    "status": "completed"
+  },
+
   {
     "id": "multicollinearity-ml",
     "title": "Multicollinearity in Machine Learning",
