@@ -28,7 +28,7 @@ export function Navbar() {
       <nav className="mx-auto flex h-16 max-w-content items-center justify-between px-6">
         <Link href="/" className="flex items-center gap-2 font-display text-lg font-medium text-ink">
           <Image
-            src="/logo5.png"
+            src="/logo2.png"
             alt="BMLA"
             width={32}
             height={32}
