@@ -11,7 +11,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 font-display text-base text-ink">
               <Image
-                src="/logo.png"
+                src="/logo5.png"
                 alt="BMLA"
                 width={24}
                 height={24}
