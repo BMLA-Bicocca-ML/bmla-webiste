@@ -28,7 +28,7 @@ export default function EventsPage() {
             {upcoming.length > 0 ? (
               upcoming.map((event) => <EventCard key={event.id} event={event} />)
             ) : (
-              <p className="text-sm text-ink-muted">Nessun evento in programma al momento.</p>
+              <p className="text-sm text-ink-muted">Our next events are coming soon. Stay tuned.</p>
             )}
           </div>
         </div>
