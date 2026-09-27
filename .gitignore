@@ -5,5 +5,4 @@ out
 *.local
 README.md
 
-data/members.json
 app/members
