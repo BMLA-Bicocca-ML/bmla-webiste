@@ -8,7 +8,11 @@
     "githubUrl": "https://github.com/BMLA-Bicocca-ML/...",
     "pdfUrl": "/projects/surrogate-multi-fidelity-modeling-financial-options-pricing.pdf",
     "date": "2026-08",
-    "status": "completed"
+    "status": "completed",
+    "contributors": [
+      { "name": "Mirko Piazzalunga", "linkedinUrl": "https://www.linkedin.com/in/mirko-piazzalunga2003/", "avatarUrl": null },
+      { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" }
+    ]
   },
 
   {
@@ -19,6 +23,10 @@
     "githubUrl": "https://github.com/BMLA-Bicocca-ML/Multicollinearity-in-Machine-Learning-Interpretability",
     "pdfUrl": "/projects/multicollinearity-in-machine-learning.pdf",
     "date": "2026-08",
-    "status": "ongoing"
+    "status": "ongoing",
+    "contributors": [
+      { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" },
+      { "name": "Alessandro Gabusi", "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/", "avatarUrl": null }
+    ]
   }
 ]

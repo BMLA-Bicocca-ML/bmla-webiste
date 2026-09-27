@@ -1,6 +1,7 @@
 import { Github, FileDown } from "lucide-react";
 import { Card } from "./Card";
 import { Badge } from "./Badge";
+import { PersonChip } from "./Avatar";
 import { Project, formatMonthYear } from "@/lib/data";
 
 export function ProjectCard({ project }: { project: Project }) {
@@ -20,6 +21,20 @@ export function ProjectCard({ project }: { project: Project }) {
             <Badge key={tag}>{tag}</Badge>
           ))}
         </div>
+
+        {project.contributors && project.contributors.length > 0 && (
+          <div className="mt-4 flex flex-wrap gap-x-4 gap-y-2">
+            {project.contributors.map((person) => (
+              <PersonChip
+                key={person.name}
+                name={person.name}
+                linkedinUrl={person.linkedinUrl}
+                avatarUrl={person.avatarUrl}
+                size={24}
+              />
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="mt-6 flex items-center justify-between border-t border-border pt-4">

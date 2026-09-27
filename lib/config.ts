@@ -20,8 +20,8 @@ export const SITE = {
 };
 
 export const STATS = [
-  { label: "Active Members", value: "10+" },
+  { label: "Active Members", value: "20+" },
   { label: "Projects Completed", value: "1" },
-  { label: "Events Organized", value: "2" },
+  { label: "Events Organized", value: "3" },
   { label: "Founded", value: "2026" },
 ];

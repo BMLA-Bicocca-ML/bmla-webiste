@@ -4,3 +4,6 @@ out
 .DS_Store
 *.local
 README.md
+
+data/members.json
+app/members
