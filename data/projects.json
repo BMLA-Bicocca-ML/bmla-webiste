@@ -21,12 +21,28 @@
     "description": "Investigating the impact of multicollinearity on statistical and machine learning models, with a focus on diagnosis, model stability, predictive performance, and feature attribution.",
     "tags": ["Multicollinearity", "XAI"],
     "githubUrl": "https://github.com/BMLA-Bicocca-ML/Multicollinearity-in-Machine-Learning-Interpretability",
-    "pdfUrl": "/projects/multicollinearity-in-machine-learning.pdf",
+    "pdfUrl": "/projects/MLcollinearity.pdf",
     "date": "2026-08",
     "status": "ongoing",
     "contributors": [
       { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" },
       { "name": "Alessandro Gabusi", "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/", "avatarUrl": null }
+    ]
+  },
+
+  {
+    "id": "aml-aml",
+    "title": "Adversarial ML in Anti-Money Laundering",
+    "description": "Investigating adversarial attacks against machine learning models for anti-money laundering, with a focus on graph-based transaction networks, model robustness, and evasion of fraud detection systems.",
+    "tags": ["Adversarial ML", "Anti-Money Laundering", "Graph ML", "Fraud Detection"],
+    "githubUrl": "https://github.com/BMLA-Bicocca-ML/aml-aml",
+    "pdfUrl": "/projects/aml-aml.pdf",
+    "date": "2026-10",
+    "status": "ongoing",
+    "contributors": [
+      { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" },
+      { "name": "Sohanur Rahman", "linkedinUrl": "https://www.linkedin.com/in/sohanur-rahman-1b3852178/", "avatarUrl": null },
+      { "name": "Giuseppe Napoli", "linkedinUrl": "https://www.linkedin.com/in/giuseppenapoli/", "avatarUrl": null }
     ]
   }
 ]
