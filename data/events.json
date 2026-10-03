@@ -31,6 +31,17 @@
     "type": "reading-group",
     "status": "past",
     "link": null
+  },
+  {
+    "id": "aperitivo_01",
+    "title": "Aperitivo: Welcome to BMLA!",
+    "date": "2026-10-02",
+    "time": "18:30",
+    "location": "U17 - Piazzetta Difesa per le Donne",
+    "description": "Our first BMLA meetup: an informal aperitivo to meet fellow students, get to know each other, and kick off the association.",
+    "type": "aperitivo",
+    "status": "past",
+    "link": null
   }
 ]
 
