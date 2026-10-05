@@ -5,8 +5,8 @@
     "title": "Surrogate Multi-Fidelity Modeling for Financial Options Pricing Using Gaussian Processes",
     "description": "Developed a Multi-Fidelity Gaussian Process surrogate model for efficient financial option pricing.",
     "tags": ["Gaussian Processes", "Multi-Fidelity Learning", "Finance"],
-    "githubUrl": "https://github.com/BMLA-Bicocca-ML/...",
-    "pdfUrl": "/projects/surrogate-multi-fidelity-modeling-financial-options-pricing.pdf",
+    "githubUrl": null,
+    "pdfUrl": null,
     "date": "2026-08",
     "status": "completed",
     "contributors": [
@@ -20,8 +20,8 @@
     "title": "Multicollinearity in Machine Learning",
     "description": "Investigating the impact of multicollinearity on statistical and machine learning models, with a focus on diagnosis, model stability, predictive performance, and feature attribution.",
     "tags": ["Multicollinearity", "XAI"],
-    "githubUrl": "https://github.com/BMLA-Bicocca-ML/Multicollinearity-in-Machine-Learning-Interpretability",
-    "pdfUrl": "/projects/MLcollinearity.pdf",
+    "githubUrl": null,
+    "pdfUrl": null,
     "date": "2026-08",
     "status": "ongoing",
     "contributors": [
@@ -35,8 +35,8 @@
     "title": "Adversarial ML in Anti-Money Laundering",
     "description": "Investigating adversarial attacks against machine learning models for anti-money laundering, with a focus on graph-based transaction networks, model robustness, and evasion of fraud detection systems.",
     "tags": ["Adversarial ML", "Anti-Money Laundering", "Graph ML", "Fraud Detection"],
-    "githubUrl": "https://github.com/BMLA-Bicocca-ML/aml-aml",
-    "pdfUrl": "/projects/aml-aml.pdf",
+    "githubUrl": null,
+    "pdfUrl": null,
     "date": "2026-10",
     "status": "ongoing",
     "contributors": [
