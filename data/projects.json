@@ -44,5 +44,21 @@
       { "name": "Sohanur Rahman", "linkedinUrl": "https://www.linkedin.com/in/sohanur-rahman-1b3852178/", "avatarUrl": null },
       { "name": "Giuseppe Napoli", "linkedinUrl": "https://www.linkedin.com/in/giuseppenapoli/", "avatarUrl": null }
     ]
+  },
+
+  {
+    "id": "whl",
+    "title": "Whale Call Recognition with SNN ",
+    "description": "The oceans produce months of continuous hydrophone recordings, we want to detect were a Whale call is among the extracted recordings",
+    "tags": ["Underwater acoustic", "Deep Learning", "Signal Detection"],
+    "githubUrl": null,
+    "pdfUrl": null,
+    "date": "2026-10",
+    "status": "ongoing",
+    "contributors": [
+      { "name": "Lorenzo Ferrari", "linkedinUrl": "https://www.linkedin.com/in/lorenzo-ferrari-5b85721b3/", "avatarUrl": null },
+      { "name": "Samuele Vitaloni", "linkedinUrl": null, "avatarUrl": null },
+      { "name": "Andrea Zanzottera", "linkedinUrl": "https://www.linkedin.com/in/andrea-zanzottera-056ab9256/", "avatarUrl": null }
+    ]
   }
 ]
