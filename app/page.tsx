@@ -3,6 +3,7 @@ import { ArrowRight, GraduationCap, Rocket, Users, Network, BookOpen, Presentati
 import { Button } from "@/components/Button";
 import { Card } from "@/components/Card";
 import { SectionHeading } from "@/components/SectionHeading";
+import { HexBackground } from "@/components/HexBackground";
 import { APPLY_FORM_URL, STATS } from "@/lib/config";
 
 const OBIETTIVI = [
@@ -61,7 +62,7 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">
-        <div className="absolute inset-0 bg-grid bg-grid [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,black,transparent)]" />
+        <HexBackground />
         <div className="relative mx-auto max-w-content px-6 py-28 md:py-36">
           <p className="font-mono text-xs uppercase tracking-[0.2em] text-accent">
             BMLA - Università di Milano-Bicocca
