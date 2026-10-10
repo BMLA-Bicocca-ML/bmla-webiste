@@ -11,6 +11,7 @@ import { APPLY_FORM_URL, SITE } from "@/lib/config";
 const LINKS = [
   { href: "/", label: "Home" },
   { href: "/projects", label: "Projects" },
+  { href: "/members", label: "Members" },
   { href: "/events", label: "Events" },
   { href: "/contacts", label: "Contacts" },
 ];

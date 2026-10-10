@@ -1,16 +1,23 @@
 [
   {
+    "name": "Andrea Zanzottera",
+    "role": "Founders",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/andrea-zanzottera-056ab9256/",
+    "avatarUrl": "/people/andrea-zanzottera.png"
+  },
+  {
     "name": "Tommaso Moretti",
     "role": "Founders",
-    "tagline": "BSc Statistics @Unimib",
+    "tagline": "BSc Statistics",
     "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/",
     "avatarUrl": "/people/tommaso-moretti.jpeg"
   },
   {
-    "name": "Andrea Zanzottera",
-    "role": "Founders",
-    "tagline": "MSc Statistics @Unimib",
-    "linkedinUrl": "https://www.linkedin.com/in/andrea-zanzottera-056ab9256/",
-    "avatarUrl": null
+    "name": "Mirko Piazzalunga",
+    "role": "Head of Projects",
+    "tagline": "BSc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/mirko-piazzalunga2003/",
+    "avatarUrl": "/people/mirko-piazzalunga.jpg"
   }
 ]
