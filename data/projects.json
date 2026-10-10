@@ -10,7 +10,7 @@
     "date": "2026-08",
     "status": "completed",
     "contributors": [
-      { "name": "Mirko Piazzalunga", "linkedinUrl": "https://www.linkedin.com/in/mirko-piazzalunga2003/", "avatarUrl": null },
+      { "name": "Mirko Piazzalunga", "linkedinUrl": "https://www.linkedin.com/in/mirko-piazzalunga2003/", "avatarUrl": "/people/mirko-piazzalunga.jpg" },
       { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" }
     ]
   },
@@ -41,7 +41,7 @@
     "status": "ongoing",
     "contributors": [
       { "name": "Tommaso Moretti", "linkedinUrl": "https://www.linkedin.com/in/moretti-tommaso/", "avatarUrl": "/people/tommaso-moretti.jpeg" },
-      { "name": "Sohanur Rahman", "linkedinUrl": "https://www.linkedin.com/in/sohanur-rahman-1b3852178/", "avatarUrl": null },
+      { "name": "Sohanur Rahman", "linkedinUrl": "https://www.linkedin.com/in/sohanur-rahman-1b3852178/", "avatarUrl": "/people/sohanur-rahman.jpeg" },
       { "name": "Giuseppe Napoli", "linkedinUrl": "https://www.linkedin.com/in/giuseppenapoli/", "avatarUrl": null }
     ]
   },
