@@ -34,15 +34,15 @@
     "name": "Alessandro Gabusi",
     "role": "Active Member",
     "tagline": "BSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
+    "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/",
+    "avatarUrl": "/people/alessandro-gabusi.jpeg"
   },
   {
     "name": "Luca Monti",
     "role": "Active Member",
     "tagline": "BSc Statistics",
     "linkedinUrl": null,
-    "avatarUrl": null
+    "avatarUrl": "/people/luca-monti.jpeg"
   },
   {
     "name": "Alessandro Lanfranchi",
@@ -131,7 +131,7 @@
   {
     "name": "Lorenzo Ferrari",
     "role": "Active Member",
-    "tagline": "BSc Physics",
+    "tagline": "MSc Physics",
     "linkedinUrl": null,
     "avatarUrl": null
   },
