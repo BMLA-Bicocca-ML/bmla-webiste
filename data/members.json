@@ -98,7 +98,14 @@
     "role": "Active Member",
     "tagline": "MSc Statistics",
     "linkedinUrl": null,
-    "avatarUrl": null
+    "avatarUrl": "/people/emanuele-saccardo.jpeg"
+  },
+  {
+    "name": "Matteo Vanzanelli",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/matteo-vanzanelli-707923357/",
+    "avatarUrl": "/people/matteo-vanzanelli.jpeg"
   },
   {
     "name": "Filippo Picciriello",
@@ -237,8 +244,8 @@
     "name": "Giuseppe Grattesco",
     "role": "Active Member",
     "tagline": "Msc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
+    "linkedinUrl": "https://www.linkedin.com/in/giuseppe-grattacaso-45ba3b39a/",
+    "avatarUrl": "/people/giuseppe-grattacaso.jpeg"
   },
   {
     "name": "Federico Rausa",
