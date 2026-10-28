@@ -61,5 +61,22 @@
       { "name": "Samuele Vitaloni", "linkedinUrl": null, "avatarUrl": null },
       { "name": "Andrea Zanzottera", "linkedinUrl": "https://www.linkedin.com/in/andrea-zanzottera-056ab9256/", "avatarUrl": "/people/andrea-zanzottera.png" }
     ]
+  },
+
+  {
+    "id": "pot",
+    "title": "Does Optimization Pay? Portfolio Construction from Markowitz to Robust Allocation ",
+    "description": "This project investigates whether complex portfolio optimization methods offer a real advantage over a simple equal-weight allocation. We test whether advanced strategies deliver superior real-world performance once accounting for estimation errors and realistic market conditions.",
+    "tags": ["Finance", "Portfolio Optimization"],
+    "githubUrl": null,
+    "pdfUrl": null,
+    "date": "2026-10",
+    "status": "ongoing",
+    "contributors": [
+      { "name": "Giorgio Colombo", "linkedinUrl": "https://www.linkedin.com/in/giorgio-colombo-467840189/", "avatarUrl": "/people/giorgio-colombo.jpeg" },
+      { "name": "Diego Belingheri", "linkedinUrl": "https://www.linkedin.com/in/diego-belingheri-737aa435b/", "avatarUrl": "/people/diego-belingheri.jpeg" },
+      { "name": "Federico Rausa",  "linkedinUrl": null, "avatarUrl": null},
+      { "name": "Alessandro Gabusi", "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/", "avatarUrl": "/people/alessandro-gabusi.jpeg" }
+    ]
   }
 ]
