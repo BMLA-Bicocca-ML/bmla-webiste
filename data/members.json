@@ -1,14 +1,4 @@
 [
-
-  {
-    "name": "Cooming Soon",
-    "role": "Advisor",
-    "tagline": "DISMEQ",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-
-
   {
     "name": "Andrea Zanzottera",
     "role": "Founder",
@@ -31,53 +21,11 @@
     "avatarUrl": "/people/mirko-piazzalunga.jpg"
   },
   {
-    "name": "Alessandro Gabusi",
-    "role": "Active Member",
-    "tagline": "BSc Statistics",
-    "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/",
-    "avatarUrl": "/people/alessandro-gabusi.jpeg"
-  },
-  {
-    "name": "Luca Monti",
-    "role": "Active Member",
-    "tagline": "BSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": "/people/luca-monti.jpeg"
-  },
-  {
-    "name": "Alessandro Lanfranchi",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Beatrice Malvezzi",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Alex Daniel Vulturu",
-    "role": "Active Member",
-    "tagline": "BSc Economics",
-    "linkedinUrl": "https://www.linkedin.com/in/alex-vulturu-417bb733b/",
-    "avatarUrl": "/people/alex-vulturu.jpeg"
-  },
-  {
     "name": "Benedetta Di Donato",
     "role": "Active Member",
     "tagline": "MSc AI",
     "linkedinUrl": "https://www.linkedin.com/in/benedetta-di-donato/",
     "avatarUrl": "/people/benedetta-di-donato.jpeg"
-  },
-  {
-    "name": "Clelia Meloni",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
   },
   {
     "name": "Diego Belingheri",
@@ -94,46 +42,11 @@
     "avatarUrl": "/people/elena-zen.jpeg"
   },
   {
-    "name": "Emanuele Saccardo",
+    "name": "Giuseppe Grattacaso",
     "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": "/people/emanuele-saccardo.jpeg"
-  },
-  {
-    "name": "Matteo Vanzanelli",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": "https://www.linkedin.com/in/matteo-vanzanelli-707923357/",
-    "avatarUrl": "/people/matteo-vanzanelli.jpeg"
-  },
-  {
-    "name": "Filippo Picciriello",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Giorgio Colombo",
-    "role": "Active Member",
-    "tagline": "BSc Economics",
-    "linkedinUrl": "https://www.linkedin.com/in/giorgio-colombo-467840189/",
-    "avatarUrl": "/people/giorgio-colombo.jpeg"
-  },
-  {
-    "name": "Giulia Biloni",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Giuseppe Napoli",
-    "role": "Active Member",
-    "tagline": "MSc Data Science",
-    "linkedinUrl": null,
-    "avatarUrl": null
+    "tagline": "Msc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/giuseppe-grattacaso-45ba3b39a/",
+    "avatarUrl": "/people/giuseppe-grattacaso.jpeg"
   },
   {
     "name": "Lorenzo Ferrari",
@@ -150,13 +63,6 @@
     "avatarUrl": "/people/lorenzo-triolo.jpeg"
   },
   {
-    "name": "Marco Bellini",
-    "role": "Active Member",
-    "tagline": "BSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": "/people/marco-bellini.jpeg"
-  },
-  {
     "name": "Mattia William D'Angelo",
     "role": "Active Member",
     "tagline": "MSc Statistics",
@@ -164,11 +70,11 @@
     "avatarUrl": "/people/william-dangelo.jpeg"
   },
   {
-    "name": "Md Jabed Hosen",
+    "name": "Matteo Vanzanelli",
     "role": "Active Member",
-    "tagline": "MSc Data Science",
-    "linkedinUrl": null,
-    "avatarUrl": null
+    "tagline": "MSc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/matteo-vanzanelli-707923357/",
+    "avatarUrl": "/people/matteo-vanzanelli.jpeg"
   },
   {
     "name": "Osama Haider",
@@ -176,27 +82,6 @@
     "tagline": "MSc Data Science",
     "linkedinUrl": "https://www.linkedin.com/in/0samahaider/",
     "avatarUrl": "/people/osama-haider.PNG"
-  },
-  {
-    "name": "Samuele Vitaloni",
-    "role": "Active Member",
-    "tagline": "BSc Physics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Sasha Risoluti",
-    "role": "Active Member",
-    "tagline": "MSc Data Science",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Sofia Menegozzo",
-    "role": "Active Member",
-    "tagline": "BSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
   },
   {
     "name": "Sohanur Rahman",
@@ -213,20 +98,6 @@
     "avatarUrl": "/people/tommaso-arone.jpeg"
   },
   {
-    "name": "Giuseppe Senia",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
-    "name": "Andrea Pallotta",
-    "role": "Active Member",
-    "tagline": "BSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": null
-  },
-  {
     "name": "Alessandro Messa",
     "role": "Active Member",
     "tagline": "Msc Computer Science",
@@ -241,16 +112,142 @@
     "avatarUrl": "/people/matteo-ronchi.jpeg"
   },
   {
-    "name": "Giuseppe Grattacaso",
+    "name": "Alessandro Gabusi",
     "role": "Active Member",
-    "tagline": "Msc Statistics",
-    "linkedinUrl": "https://www.linkedin.com/in/giuseppe-grattacaso-45ba3b39a/",
-    "avatarUrl": "/people/giuseppe-grattacaso.jpeg"
+    "tagline": "BSc Statistics",
+    "linkedinUrl": "https://www.linkedin.com/in/alessandro-gabusi-2a0868298/",
+    "avatarUrl": "/people/alessandro-gabusi.jpeg"
+  },
+  {
+    "name": "Alex Daniel Vulturu",
+    "role": "Active Member",
+    "tagline": "BSc Economics",
+    "linkedinUrl": "https://www.linkedin.com/in/alex-vulturu-417bb733b/",
+    "avatarUrl": "/people/alex-vulturu.jpeg"
+  },
+  {
+    "name": "Giorgio Colombo",
+    "role": "Active Member",
+    "tagline": "BSc Economics",
+    "linkedinUrl": "https://www.linkedin.com/in/giorgio-colombo-467840189/",
+    "avatarUrl": "/people/giorgio-colombo.jpeg"
+  },
+  {
+    "name": "Luca Monti",
+    "role": "Active Member",
+    "tagline": "BSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": "/people/luca-monti.jpeg"
+  },
+  {
+    "name": "Victoria Bassey",
+    "role": "Active Member",
+    "tagline": "MSc Data Science",
+    "linkedinUrl": "https://www.linkedin.com/in/victoria-bassey-825430185/",
+    "avatarUrl": "/people/victoria-bassey.jpeg"
+  },
+  {
+    "name": "Alessandro Lanfranchi",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Beatrice Malvezzi",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Clelia Meloni",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Emanuele Saccardo",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": "/people/emanuele-saccardo.jpeg"
+  },
+  {
+    "name": "Filippo Picciriello",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Giulia Biloni",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Giuseppe Napoli",
+    "role": "Active Member",
+    "tagline": "MSc Data Science",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Giuseppe Senia",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Md Jabed Hosen",
+    "role": "Active Member",
+    "tagline": "MSc Data Science",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Sasha Risoluti",
+    "role": "Active Member",
+    "tagline": "MSc Data Science",
+    "linkedinUrl": null,
+    "avatarUrl": null
   },
   {
     "name": "Federico Rausa",
     "role": "Active Member",
     "tagline": "Msc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Samuele Vitaloni",
+    "role": "Active Member",
+    "tagline": "BSc Physics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Sofia Menegozzo",
+    "role": "Active Member",
+    "tagline": "BSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Andrea Pallotta",
+    "role": "Active Member",
+    "tagline": "BSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": null
+  },
+  {
+    "name": "Cooming Soon",
+    "role": "Advisor",
+    "tagline": "DISMEQ",
     "linkedinUrl": null,
     "avatarUrl": null
   }
