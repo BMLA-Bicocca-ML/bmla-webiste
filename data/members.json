@@ -77,6 +77,13 @@
     "avatarUrl": "/people/matteo-vanzanelli.jpeg"
   },
   {
+    "name": "Emanuele Saccardo",
+    "role": "Active Member",
+    "tagline": "MSc Statistics",
+    "linkedinUrl": null,
+    "avatarUrl": "/people/emanuele-saccardo.jpeg"
+  },
+  {
     "name": "Osama Haider",
     "role": "Active Member",
     "tagline": "MSc Data Science",
@@ -166,13 +173,6 @@
     "tagline": "MSc Statistics",
     "linkedinUrl": null,
     "avatarUrl": null
-  },
-  {
-    "name": "Emanuele Saccardo",
-    "role": "Active Member",
-    "tagline": "MSc Statistics",
-    "linkedinUrl": null,
-    "avatarUrl": "/people/emanuele-saccardo.jpeg"
   },
   {
     "name": "Filippo Picciriello",
