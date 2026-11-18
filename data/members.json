@@ -21,6 +21,13 @@
     "avatarUrl": "/people/mirko-piazzalunga.jpg"
   },
   {
+    "name": "Elena Zen",
+    "role": "Head of Projects",
+    "tagline": "MSc Computer Science",
+    "linkedinUrl": "https://www.linkedin.com/in/elena-zen-771388294/",
+    "avatarUrl": "/people/elena-zen.jpeg"
+  },
+  {
     "name": "Benedetta Di Donato",
     "role": "Active Member",
     "tagline": "MSc AI",
@@ -33,13 +40,6 @@
     "tagline": "MSc AI",
     "linkedinUrl": "https://www.linkedin.com/in/diego-belingheri-737aa435b/",
     "avatarUrl": "/people/diego-belingheri.jpeg"
-  },
-  {
-    "name": "Elena Zen",
-    "role": "Active Member",
-    "tagline": "MSc Computer Science",
-    "linkedinUrl": "https://www.linkedin.com/in/elena-zen-771388294/",
-    "avatarUrl": "/people/elena-zen.jpeg"
   },
   {
     "name": "Giuseppe Grattacaso",
